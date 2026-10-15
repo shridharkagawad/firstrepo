@@ -16,3 +16,6 @@ class Example2 {
         System.out.println(num);
     }
 }
+
+output
+2
